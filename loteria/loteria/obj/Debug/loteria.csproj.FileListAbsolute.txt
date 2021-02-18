@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\loteria\loteria\bin\Debug\loteria.exe.config
+C:\Users\HP\Desktop\loteria\loteria\bin\Debug\loteria.exe
+C:\Users\HP\Desktop\loteria\loteria\bin\Debug\loteria.pdb
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.Form1.resources
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.Properties.Resources.resources
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.exe
+C:\Users\HP\Desktop\loteria\loteria\obj\Debug\loteria.pdb
